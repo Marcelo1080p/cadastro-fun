@@ -1,0 +1,14 @@
+D:\Users\Public\Documents\curso-c#\cadastro-fun\bin\Debug\net8.0\cadastro-fun.exe
+D:\Users\Public\Documents\curso-c#\cadastro-fun\bin\Debug\net8.0\cadastro-fun.deps.json
+D:\Users\Public\Documents\curso-c#\cadastro-fun\bin\Debug\net8.0\cadastro-fun.runtimeconfig.json
+D:\Users\Public\Documents\curso-c#\cadastro-fun\bin\Debug\net8.0\cadastro-fun.dll
+D:\Users\Public\Documents\curso-c#\cadastro-fun\bin\Debug\net8.0\cadastro-fun.pdb
+D:\Users\Public\Documents\curso-c#\cadastro-fun\obj\Debug\net8.0\cadastro-fun.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Public\Documents\curso-c#\cadastro-fun\obj\Debug\net8.0\cadastro-fun.AssemblyInfoInputs.cache
+D:\Users\Public\Documents\curso-c#\cadastro-fun\obj\Debug\net8.0\cadastro-fun.AssemblyInfo.cs
+D:\Users\Public\Documents\curso-c#\cadastro-fun\obj\Debug\net8.0\cadastro-fun.csproj.CoreCompileInputs.cache
+D:\Users\Public\Documents\curso-c#\cadastro-fun\obj\Debug\net8.0\cadastro-fun.dll
+D:\Users\Public\Documents\curso-c#\cadastro-fun\obj\Debug\net8.0\refint\cadastro-fun.dll
+D:\Users\Public\Documents\curso-c#\cadastro-fun\obj\Debug\net8.0\cadastro-fun.pdb
+D:\Users\Public\Documents\curso-c#\cadastro-fun\obj\Debug\net8.0\cadastro-fun.genruntimeconfig.cache
+D:\Users\Public\Documents\curso-c#\cadastro-fun\obj\Debug\net8.0\ref\cadastro-fun.dll
