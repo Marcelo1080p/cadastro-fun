@@ -11,9 +11,9 @@ namespace cadastro_fun.Models
         {
 
         };
-        public static void AddFuncionario(string nome, int idade)
+        public static void AddFuncionario(int matricula,string nome, int idade, decimal salario)
         {
-            funs.Add(new Funcionario { Nome = nome, Idade = idade });
+            funs.Add(new Funcionario { Matricula = matricula, Nome = nome, Idade = idade, Salario = salario });
         }
 
 
@@ -28,7 +28,9 @@ namespace cadastro_fun.Models
                 Console.Write("Dados Funcionário\n");
                 foreach (var fun in funs)
                 {
-                    Console.WriteLine($"Dados Funcionário\nNome: {fun.Nome}, Idade: {fun.Idade}");
+                    Console.WriteLine("-----------------------------------------------");
+                    Console.Write($"Dados Funcionário\nMatricula: {fun.Matricula}, Nome: {fun.Nome}\nIdade: {fun.Idade}, Salário: {fun.Salario}R$\n");
+                    Console.WriteLine("-----------------------------------------------");
                 }
             }
         }

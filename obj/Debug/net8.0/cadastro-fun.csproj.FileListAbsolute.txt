@@ -12,3 +12,4 @@ D:\Users\Public\Documents\curso-c#\cadastro-fun\obj\Debug\net8.0\refint\cadastro
 D:\Users\Public\Documents\curso-c#\cadastro-fun\obj\Debug\net8.0\cadastro-fun.pdb
 D:\Users\Public\Documents\curso-c#\cadastro-fun\obj\Debug\net8.0\cadastro-fun.genruntimeconfig.cache
 D:\Users\Public\Documents\curso-c#\cadastro-fun\obj\Debug\net8.0\ref\cadastro-fun.dll
+D:\Users\Public\Documents\curso-c#\cadastro-fun\obj\Debug\net8.0\cadastro-fun.sourcelink.json

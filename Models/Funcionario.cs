@@ -7,7 +7,9 @@ namespace cadastro_fun.Models
 {
     public class Funcionario
     {
-        public string Nome {get; set;}
-        public int Idade {get; set;}
+        public int Matricula { get; set; }
+        public string Nome { get; set; }
+        public int Idade { get; set; }
+        public decimal Salario { get; set; }
     }
 }
