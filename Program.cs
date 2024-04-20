@@ -1,10 +1,11 @@
 ﻿using cadastro_fun.Models;
 
 int fimPrograma = 0;
+int matricula = 0;
 
 while (fimPrograma == 0)
 {
-    Console.WriteLine("Opções disponiveis abaixo\n[1] Ver funcioários\n[2] Cadastrar funcionário\n[3] Sair do programa\nInforme a opção desejada: ");
+    Console.WriteLine("Opções disponiveis abaixo\n[1] Ver funcioários\n[2] Cadastrar funcionário\n[3] Aumentar Salário\n[4] Sair do programa\nInforme a opção desejada: ");
     string entrada = Console.ReadLine();
     switch (entrada)
     {
@@ -13,8 +14,7 @@ while (fimPrograma == 0)
             break;
 
         case "2":
-
-            int matricula = 1;
+            matricula+= 1;
             Console.Write("Informe o nome do colaborador: ");
             string nome = Console.ReadLine();
             Console.Write("Informe a idade do colaborador: ");
@@ -27,6 +27,14 @@ while (fimPrograma == 0)
             break;
 
         case "3":
+            Console.Write("\nInforme a matricula do colaborador que irá receber o aumento: ");
+            int idMatricula = Convert.ToInt32(Console.ReadLine());
+            Console.Write("\nInforme o número da porcentagem do aumento: ");
+            int taxaDeAumento = Convert.ToInt32(Console.ReadLine());
+            CadastrarFunc.DarAumentoSalario(idMatricula, taxaDeAumento);
+            break;
+
+        case "4":
 
             Console.Write("Obrigado por utilizar nosso programa!");
             fimPrograma = 1;

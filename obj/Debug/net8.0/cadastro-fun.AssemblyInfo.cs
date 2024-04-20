@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cadastro-fun")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00cf34af318b44648a28ac35dd4a0a835a1fd6db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee6990c0b8d8aa58d956549b0642c9bdcfb4df0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("cadastro-fun")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cadastro-fun")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
